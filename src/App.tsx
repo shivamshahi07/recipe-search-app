@@ -2,7 +2,7 @@
 
 import './App.css'
 import NavBar from './NavBar';
-import search from './search-box'
+import Search from './search';
 
 function App() {
   
@@ -12,7 +12,7 @@ function App() {
     <>
       <div>
       <NavBar />
-      <search />
+      <Search />
       {/* Other components or content of your application */}
     </div>
       
