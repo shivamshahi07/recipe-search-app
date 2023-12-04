@@ -11,9 +11,9 @@ function App() {
     
     <>
       <div>
-      <NavBar />
-      <Search />
-      {/* Other components or content of your application */}
+        <NavBar />
+        <Search />
+        {/* Other components or content of your application */}
     </div>
       
     </>
